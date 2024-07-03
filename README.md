@@ -1,6 +1,6 @@
 ## About
 
-Just another ☕ developer with 20 years experience spending his time outside 🏢 on 🏍️ or with contributing ✨ _code_
+Just another ☕ developer with 20 years experience spending his time outside 🏢 on 🏍️ and contributing ✨ _code_
 
 # Projects
 
