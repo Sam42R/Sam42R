@@ -2,7 +2,7 @@
 
 Just another ☕ developer with 20 years experience spending his time outside 🏢 on 🏍️ and contributing ✨ to open source projects
 
-[![Sam-4J](assets/reddit.svg)](https://reddit.com/user/Sam-4J)
+[<img src="Reddit_Icon_2Color.svg" width="32px"/>](https://reddit.com/user/Sam-4J)
 
 # Projects
 
