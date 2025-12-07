@@ -6,8 +6,8 @@ Just another â˜• developer with 20 years experience spending his time outside ðŸ
 
 # Projects
 
-[semver-maven-plugin](https://github.com/Sam42R/semver-maven-plugin) - semantic release plugin for maven
-[reindeer](https://github.com/Sam42R/reindeer) - custom components for [Vaadin Flow](https://vaadin.com/flow)
+- [semver-maven-plugin](https://github.com/Sam42R/semver-maven-plugin) - semantic release plugin for maven
+- [reindeer](https://github.com/Sam42R/reindeer) - custom components for [Vaadin Flow](https://vaadin.com/flow)
 
 # Blog
 
